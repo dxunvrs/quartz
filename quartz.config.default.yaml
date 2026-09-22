@@ -203,8 +203,9 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        "Quartz fork": https://github.com/dxunvrs/quartz
+        "Репозиторий": https://gitea.aklivtsov.tech/roma/obsidian
+        "Важный сайт": https://polyakov.aklivtsov.tech
     layout:
       position: footer
       priority: 50
